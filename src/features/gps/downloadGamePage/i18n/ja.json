@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "hero_text_line_1": "ゴルフは終わらない",
+    "hero_text_line_2": "貯めたポイントをゲームで使って",
+    "hero_text_line_3": "GOLFINをさらに楽しく！",
+    "download_button_text": "今すぐダウンロードしてプレイ"
+  },
+  "about_golfin_game": {
+    "header_text": "ABOUT GOLFIN GAME",
+    "header_p_text": "リアルなゴルフ体験を、どこでも。<br> 本格コースと臨場感あふれるプレイ！ <br> GPSと融合した世界初のハイブリッドゴルフゲーム！",
+    "phone_box_one": "ショット",
+    "phone_box_two": "アイテム数",
+    "phone_box_three": "GPS連動型ゴルフゲーム",
+    "box_one": {
+      "heading": "CHARACTERS",
+      "subtext_heading": "世界中から集結した<span>個性豊か</span>なキャラクター！",
+      "subtext_p": "まずは4人のキャラクターから選んでスタート！ <br /> プレイスタイルに合わせて、世界中から続々登場。",
+      "subtext_p_subheading": "レアなキャラほど強力に育成可能！"
+    },
+    "box_two": {
+      "heading": "ITEMS",
+      "subtext_heading": "<span>ギア</span>を極めて、<span>勝利</span>をつかめ！",
+      "subtext_p": "クラブごとに異なった飛距離や操作性。<br /> 状況に合わせて最適な1本を選ぼう！",
+      "subtext_p_subheading": "ボールは追加効果アリ。ただし、なくなることも…！"
+    },
+    "box_three": {
+      "heading": "COURSES",
+      "subtext_heading": "<span>本物のコースで</span>、リアルに勝負！",
+      "subtext_p": "第一弾は矢板カントリークラブ。<br /> 実在のコースを元にフル3Dで再現！",
+      "subtext_p_subheading": "コースを知り、戦略で勝つゴルフを体感しよう。"
+    },
+    "level_up_your_game": {
+      "heading": "プレイして強くなれ！",
+      "subtext": "プレイしてポイントを獲得し、<br /> キャラやギアを強化！<br /> 強化を重ねて、自分だけのゴル <br /> ファーを育てよう。",
+      "dont_let_your_points_sit": "ポイント、眠らせてない？"
+    }
+  },
+  "footer": {
+    "heading": "今すぐGOLFIN GAMEを <br /> ダウンロード！"
+  },
+  "meta": {
+    "title": "GOLFIN - CRYPTO x AI GOLF TOURNAMENT | TOKEN2049 Event",
+    "description": "Join the revolutionary CRYPTO x AI Golf Tournament at TOKEN2049. Experience the future of Web3 networking with $200K USDC prize pool. September 30, 2025 at Sentosa Golf Club, Singapore.",
+    "keywords": "crypto, AI, golf tournament, TOKEN2049, Web3, blockchain, Singapore, Sentosa, USDC, prize pool"
+  }
+}

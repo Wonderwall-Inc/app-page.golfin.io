@@ -1,0 +1,298 @@
+.about-golfin-game-text {
+  padding: 40px;
+  color: #000;
+  font-family: Inter;
+
+  h2 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115.404%;
+    /* 27.697px */
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+
+  p {
+    color: #000;
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 115.404%;
+    letter-spacing: 1.04px;
+  }
+}
+
+.about-golfin-game-phones-container {
+  position: relative;
+  background:
+    linear-gradient(to bottom,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 0.7) 10%,
+      rgba(255, 255, 255, 0.7) 90%,
+      rgba(255, 255, 255, 1) 100%),
+    url('../images/about_golfin_game/background_image_top.png');
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  height: 289px;
+  background-position: -132.442px -0.177px;
+  background-size: 166.925% 145.168%;
+  background-repeat: no-repeat;
+  mix-blend-mode: multiply;
+
+  span {
+    color: #000;
+
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115.404%;
+    /* 15.003px */
+    text-transform: uppercase;
+  }
+
+  .box-one-text {
+    z-index: 4;
+    position: absolute;
+    top: 21px;
+    left: 98px;
+  }
+
+  .box-two-text {
+    position: absolute;
+    top: 100px;
+    left: 365px;
+    z-index: 4;
+  }
+
+  .box-three-text {
+    top: 193px;
+    left: 70px;
+    z-index: 4;
+    position: absolute;
+  }
+
+  img {
+    position: absolute;
+  }
+
+  .about-golfin-game-phones {
+    height: 308px;
+    z-index: 2;
+  }
+
+  .golf-gps {
+    width: 238px;
+    top: 125px;
+    left: 25px;
+    z-index: 3;
+  }
+
+  .items {
+    width: 145px;
+    top: 67px;
+    left: 289px;
+    z-index: 3;
+  }
+
+  .shots {
+    width: 178px;
+    top: -15px;
+    left: 45px;
+    z-index: 1;
+
+
+  }
+
+}
+
+html:lang(ja) .box-one-text {
+  top: 17px;
+  left: 130px;
+  font-size: 15px;
+}
+
+html:lang(ja) .box-two-text {
+  top: 98px;
+  left: 344px;
+  font-size: 15px;
+}
+
+html:lang(ja) .box-three-text {
+  left: 67px;
+  font-size: 15px;
+}
+
+.about-golfin-game-container {
+  font-family: Inter;
+  background:
+    linear-gradient(to bottom,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 0.9) 10%,
+      rgba(255, 255, 255, 0.9) 90%,
+      rgba(255, 255, 255, 0.97) 100%),
+    url('../images/about_golfin_game/checkered_background_pattern.png') repeat;
+  background-size: contain;
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 32px;
+  position: relative;
+}
+
+.about-golfin-game-overlay {
+  position: absolute;
+  z-index: 100;
+  /* top: 421px; */
+  top: 1010px;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(217, 217, 217, 0.00) 0%, #FFF 100%);
+  height: 110px;
+}
+
+.box {
+  border-radius: 25px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 35px 24px 17px;
+  color: white;
+  height: 466px;
+  width: 382px;
+  z-index: 999;
+}
+
+.box-one {
+  background:
+    linear-gradient(to bottom,
+      rgba(217, 217, 217, 0.00) 35%,
+      rgba(0, 0, 0, 1) 100%),
+    url('../images/about_golfin_game/box_1_characters.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box-two {
+  background:
+    linear-gradient(to bottom,
+      rgba(217, 217, 217, 0.00) 35%,
+      rgba(0, 0, 0, 1) 100%),
+    url('../images/about_golfin_game/box_2_items.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box-three {
+  background:
+    linear-gradient(to bottom,
+      rgba(217, 217, 217, 0.00) 35%,
+      rgba(0, 0, 0, 1) 100%),
+    url('../images/about_golfin_game/box_3_courses.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 20px !important;
+}
+
+.box-heading {
+  color: #FFF;
+  text-shadow: 0 0 12.5px rgba(21, 86, 158, 0.66);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 115.404%;
+  text-transform: uppercase;
+}
+
+
+.box-subheading {
+  font-size: 15px;
+  line-height: normal;
+  font-weight: 400;
+  line-height: 115.404%;
+  width: 340px;
+
+  span {
+    color: #2D4;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+
+  >strong {
+    font-size: 15px;
+  }
+}
+
+.box-one .box-subheading {
+  font-size: 13px;
+}
+
+.box-subheading div {
+  margin-bottom: 20px;
+}
+
+html:lang(ja) .box-subtext {
+  font-size: 14px;
+}
+
+.level-up-your-game-container {
+  background:
+    url('../images/about_golfin_game/level_up_your_game_bg.png');
+  width: 449px;
+  max-width: 449px;
+  background-size: cover;
+  height: 357px;
+  z-index: 50;
+  color: #FFF;
+  text-align: end;
+  font-family: Inter;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 30px;
+
+  h3 {
+    line-height: 1.15;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+
+  p {
+    text-align: end;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 115.404%;
+    letter-spacing: 1.04px;
+    width: 231px;
+  }
+}
+
+.dont-let-your-points-sit {
+  border-radius: 15px 15px 0 0;
+  background: #1CC83C;
+  height: 65px;
+  text-align: center;
+  padding: 20px 50px;
+
+  p {
+    color: #FFF;
+    text-shadow: 0 0 13.6px rgba(28, 166, 53, 0.40);
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+  }
+}

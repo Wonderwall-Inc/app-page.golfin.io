@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "hero_text_line_1": "GOLF NEVER ENDS",
+    "hero_text_line_2": "SPEND YOUR POINTS",
+    "hero_text_line_3": "PLAY ANYTIME IN GOLFIN!",
+    "download_button_text": "Download and Start GOLFIN GAME"
+  },
+  "about_golfin_game": {
+    "header_text": "ABOUT GOLFIN GAME",
+    "header_p_text": "Experience real golf, anywhere. <br> Step into a world of authentic golf with stunningly <br> realistic courses and true-to-life game play. ",
+    "phone_box_one": "SHOTS TAKEN",
+    "phone_box_two": "ITEMS",
+    "phone_box_three": "GOLF + GPS HYBRID GAME",
+    "box_one": {
+      "heading": "CHARACTERS",
+      "subtext_heading": "SELECTION OF <span>DIVERSE</span> CHARACTERS",
+      "subtext_p": "From an initial selection of 4 a growing number of characters from all over the world can be acquired and leveled-up to suit any playstyle. ",
+      "subtext_p_subheading": "The rarer the character, the more powerful they are!"
+    },
+    "box_two": {
+      "heading": "ITEMS",
+      "subtext_heading": "MASTER YOUR <span>GEAR</span>, MASTER <span>THE GAME!</span>",
+      "subtext_p": "Every club handles differently, pick the right one for precision or power.",
+      "subtext_p_subheading": "Balls offer extra benefits, but can be lost!"
+    },
+    "box_three": {
+      "heading": "COURSES",
+      "subtext_heading": "<span>REAL COURSE</span>, REAL CHALLENGE!",
+      "subtext_p": "Starting with the beautiful Yaita Country Club, our courses are based on real life, recreated in full 3D. ",
+      "subtext_p_subheading": "Learn its ways and use golf knowledge to win."
+    },
+    "level_up_your_game": {
+      "heading": "LEVEL UP <br />YOUR GAME",
+      "subtext": "Earn reward points through playing, and unlock your true potential by leveling up your characters and gear.",
+      "dont_let_your_points_sit": "Don’t Let Your Points Sit!"
+    }
+  },
+  "footer": {
+    "heading": "Download GOLFIN GAME!"
+  },
+  "meta": {
+    "title": "GOLFIN - CRYPTO x AI GOLF TOURNAMENT | TOKEN2049 Event",
+    "description": "Join the revolutionary CRYPTO x AI Golf Tournament at TOKEN2049. Experience the future of Web3 networking with $200K USDC prize pool. September 30, 2025 at Sentosa Golf Club, Singapore.",
+    "keywords": "crypto, AI, golf tournament, TOKEN2049, Web3, blockchain, Singapore, Sentosa, USDC, prize pool"
+  }
+}
