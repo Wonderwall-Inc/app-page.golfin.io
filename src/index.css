@@ -3,7 +3,7 @@
 @font-face {
   font-family: 'Inter';
   /* Choose a descriptive name */
-  src: url('./features/share/assets/fonts/Inter-VariableFont_opsz,wght.ttf') format('truetype');
+  src: url('./features/share/assets/fonts/Inter-VariableFont_opsz-wght.ttf') format('truetype');
   /* Adjust path and format */
   font-display: swap;
   /* Optional: Controls font loading behavior */
@@ -19,7 +19,6 @@ body {
   width: 100%;
   max-width: 100vw;
   scroll-behavior: smooth;
-  font-family: 'Inter', 'sans-serif';
 }
 
 * {
