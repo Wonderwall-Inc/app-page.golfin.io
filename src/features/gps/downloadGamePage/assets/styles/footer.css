@@ -68,6 +68,10 @@ footer {
   font-weight: 400;
   line-height: normal;
   color: rgba(255, 255, 255, 0.49);
+
+  @media (max-width: 415px) {
+    font-size: 12px;
+  }
 }
 
 .footer-copywrite-container p:last-child {
