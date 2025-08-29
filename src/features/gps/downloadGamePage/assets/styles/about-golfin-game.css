@@ -357,7 +357,7 @@ html:lang(ja) .box-subtext {
     text-transform: uppercase;
 
     @media (max-width: 452px) {
-      font-size: 19px;
+      font-size: 18px;
     }
   }
 }

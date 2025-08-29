@@ -1,12 +1,14 @@
 import { SafeHtml } from '@/features/share';
 import '../assets/styles/about-golfin-game.css'
-import GolfinGamePhones from "../assets/images/about_golfin_game/phones.png"
+import GolfinGamePhones from '../assets/images/about_golfin_game/phones.png'
 import ShotsBubble from "../assets/images/about_golfin_game/shots.png"
 import ItemsBubble from "../assets/images/about_golfin_game/items.png"
 import GolfGpsBubble from "../assets/images/about_golfin_game/golf-gps-hybrid.png"
 
+
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { LazyImage } from '@/features/share/components/LazyImage';
 
 const AboutGolfinGame: React.FC = () => {
   const { t, ready } = useTranslation('gpsDownloadGamePage');
@@ -24,7 +26,7 @@ const AboutGolfinGame: React.FC = () => {
 
       {/* PHONES */}
       <div className="about-golfin-game-phones-container">
-        <img src={GolfinGamePhones} alt="" className="about-golfin-game-phones" />
+        <LazyImage src={GolfinGamePhones} alt="Golfin Game Phones" />
         <img src={ShotsBubble} alt="" className="shots bubble" />
         <span className='box-one-text'>
           {t('about_golfin_game.phone_box_one')}
